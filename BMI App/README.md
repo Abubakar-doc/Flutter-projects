@@ -1,7 +1,3 @@
-Sure, here's a sample README description for your Flutter BMI calculator:
-
----
-
 # BMI Calculator
 
 A simple BMI (Body Mass Index) calculator built using Flutter. This app allows users to calculate their BMI by providing their height in feet and centimeters, and weight in pounds and kilograms.
@@ -15,7 +11,15 @@ A simple BMI (Body Mass Index) calculator built using Flutter. This app allows u
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png) ![Screenshot 2](screenshots/screenshot2.png)
+#output![3](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8dc82524-7e55-4c11-82f9-dcc4cc597674)
+![2](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/c0222ad8-40e8-4250-9e35-189f956ded29)
+![1](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/d00a8c95-465b-402a-bc66-5fbed451423b)
+![8](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8f688fdf-e6a5-418a-8b0c-7dc202e9206b)
+![7](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/fefe5239-3705-481d-8c42-8924ade7726e)
+![6](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/9c902068-0842-4557-a5e9-29b7f610fb9c)
+![5](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/e34d0d76-a8cb-4c24-a8eb-d179df45204c)
+![4](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/bf40d796-9954-409b-b6a3-bff5da6d8d8e)
+
 
 ## Getting Started
 
@@ -34,14 +38,6 @@ To run this project locally, follow these steps:
 3. Press the calculate button to see your BMI.
 4. Interpretation will be shown below the calculated BMI.
 
-## Contributing
+## Follow Me on LinkedIn
 
-Contributions are welcome! Please feel free to submit any issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this according to your specific project structure and requirements. Let me know if you need further assistance!
+Stay updated on my latest projects and connect with me on LinkedIn: [Follow Me](https://www.linkedin.com/in/abubakar-nadeem-5672562b9/)
