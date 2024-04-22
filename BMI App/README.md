@@ -10,15 +10,14 @@ A simple BMI (Body Mass Index) calculator built using Flutter. This app allows u
 - Support for both imperial (feet, pounds) and metric (centimeters, kilograms) units.
 
 ## Screenshots
-
-#output![3](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8dc82524-7e55-4c11-82f9-dcc4cc597674)
-![2](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/c0222ad8-40e8-4250-9e35-189f956ded29)
-![1](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/d00a8c95-465b-402a-bc66-5fbed451423b)
-![8](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8f688fdf-e6a5-418a-8b0c-7dc202e9206b)
-![7](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/fefe5239-3705-481d-8c42-8924ade7726e)
-![6](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/9c902068-0842-4557-a5e9-29b7f610fb9c)
-![5](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/e34d0d76-a8cb-4c24-a8eb-d179df45204c)
-![4](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/bf40d796-9954-409b-b6a3-bff5da6d8d8e)
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/d00a8c95-465b-402a-bc66-5fbed451423b" alt="Screenshot 1" width="300">
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/c0222ad8-40e8-4250-9e35-189f956ded29" alt="Screenshot 2" width="300">
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8dc82524-7e55-4c11-82f9-dcc4cc597674" alt="Screenshot 3" width="300">   
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/bf40d796-9954-409b-b6a3-bff5da6d8d8e" alt="Screenshot 4" width="300"> 
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/e34d0d76-a8cb-4c24-a8eb-d179df45204c" alt="Screenshot 5" width="300">
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/9c902068-0842-4557-a5e9-29b7f610fb9c" alt="Screenshot 6" width="300"> 
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/fefe5239-3705-481d-8c42-8924ade7726e" alt="Screenshot 7" width="300">
+<img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/8f688fdf-e6a5-418a-8b0c-7dc202e9206b" alt="Screenshot 8" width="300">
 
 
 ## Getting Started
