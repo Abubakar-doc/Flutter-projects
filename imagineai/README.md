@@ -1,3 +1,4 @@
+# Imagine Ai
 # Text-to-Image Generation Mobile Application
 
 ## Overview
@@ -44,4 +45,4 @@ We welcome contributions from developers of all levels. Here's how you can contr
 - The advancements in AI technology, particularly the SD-XL model developed by Stability AI, have significantly influenced this project, pushing the boundaries of what's achievable in mobile application development.
 
 ## Contact
-For any inquiries or feedback regarding this project, feel free to reach out to [developer@example.com](mailto:abubakaranjum065@gmail.com). Your feedback is invaluable to us!
+For any inquiries or feedback regarding this project, feel free to reach out to [developer](mailto:abubakaranjum065@gmail.com). Your feedback is invaluable to us!
