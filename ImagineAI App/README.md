@@ -1,4 +1,4 @@
-# Imagine Ai
+![1](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/6a113917-7d2a-449a-b866-ebedd732bb9a)# Imagine Ai
 # Text-to-Image Generation Mobile Application
 
 ## Overview
@@ -11,6 +11,18 @@ Welcome to our innovative mobile application that merges the power of AI with Fl
 - **Authentication Options**: The app offers multiple authentication methods, including Google Sign-In, Facebook Login, mobile number, and email/password authentication, ensuring a secure and seamless experience.
 - **Background Removal**: Utilizing AI-based background removal, users can isolate subjects in images effortlessly.
 - **Image Expansion and Cropping**: The app provides tools for expanding images and cropping them to desired dimensions, enhancing user control over image output.
+- **Light and Dark Theme**: The application supports both light and dark themes to enhance user experience and comfort. Users can switch between these themes in the settings.
+
+## Functionalities
+### Personal Accounts and Profiles
+- **User Profiles**: Each user has a personal profile where they can manage their information, preferences, and generated images.
+- **Account Management**: Users can update their personal information, change passwords, and manage connected authentication methods.
+- **Profile Management**: Users can upload a profile picture, set display names, and view their activity within the app.
+
+### In-App Settings
+- **Delete Account**: Users have the option to permanently delete their account, which removes all associated data from the app.
+- **Logout**: Users can log out of their account, ensuring their data remains secure on shared devices.
+- **Theme Switching**: Users can toggle between light and dark themes to suit their preferences and improve usability in different lighting conditions.
 
 ## AI Model
 - **Model Name**: SD-XL 1.0-base
@@ -33,11 +45,21 @@ To begin exploring this project:
 4. Configure authentication providers such as Google Sign-In and Facebook Login in Firebase Console.
 5. Run the application on an emulator or physical device to start generating images and utilizing authentication features.
 
-## Contributing
-We welcome contributions from developers of all levels. Here's how you can contribute:
-- Report bugs or suggest new features by opening an issue.
-- Fork the repository and submit pull requests to address existing issues or implement new functionality.
-- Spread the word about the project and help grow the community.
+## Screenshots
+### Light Theme
+![1](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/5a93e4d9-a382-410c-ab53-9b9694a10e28)
+![2](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/183bc413-bc1a-4dd6-a1c2-45552486271d)
+![3](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/95642414-e47a-4fe4-8bad-03e07800c5af)
+![4](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/62e51509-3fa9-48de-b6c1-b15fcff82d18)
+![5](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/f39d7047-ef92-42f8-89c4-216410b765b2)
+![6](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/3122a9dc-77c1-4e54-ac4c-a3396a9f60ed)
+![7](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/25c95fcb-6217-46b1-9d25-a8c607a9dcc3)
+
+
+### Dark Theme
+![8](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/ea95e1f5-6631-4d6c-a176-e6352bd90f68)
+![9](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/77d140c8-4a41-47a1-9d95-75f7298cd08e)
+
 
 ## Acknowledgements
 - We extend our gratitude to the Flutter and TensorFlow communities for their continuous support and contributions.
