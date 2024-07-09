@@ -1,4 +1,3 @@
-![1](https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/6a113917-7d2a-449a-b866-ebedd732bb9a)# Imagine Ai
 # Text-to-Image Generation Mobile Application
 
 ## Overview
