@@ -8,7 +8,7 @@ A simple BMI (Body Mass Index) calculator built using Flutter. This app allows u
 - Displays BMI value along with interpretation (underweight, normal weight, overweight, or obese).
 - Clean and intuitive user interface.
 - Support for both imperial (feet, pounds) and metric (centimeters, kilograms) units.
-
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="375" height="687" src="https://app.uizard.io/p/9191acc9/embed" allowfullscreen></iframe>
 ## Screenshots
 <img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/d00a8c95-465b-402a-bc66-5fbed451423b" alt="Screenshot 1" width="300">
 <img src="https://github.com/Abubakar-doc/Flutter-projects/assets/137390804/c0222ad8-40e8-4250-9e35-189f956ded29" alt="Screenshot 2" width="300">
